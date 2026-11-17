@@ -36,7 +36,7 @@ A execução leva alguns minutos (o grafo real e as centralidades são a parte m
 
 ```
 notebooks/   notebook corrigido (v2.0), com as saídas embutidas
-original/    notebook como entregue (v1.0), sem alterações
+original/    notebook como entregue (v1.0), sem alterações (não renderiza no GitHub por causa dos metadados do Colab; baixe o arquivo para abrir)
 results/     CSVs e figuras gerados pelo notebook
 docs/        relatório corrigido (relatorio.md)
 ```
