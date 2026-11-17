@@ -6,8 +6,7 @@ Análise comparativa entre grafos sintéticos (Erdős–Rényi, Barabási–Albe
 - **Versão 1.0 (como entregue):** `original/` e a tag `v1.0`. Veja a seção [Errata](#errata).
 
 **Autores:** Arthur Costa Marques, Conrado Marques Martins, Fábio Barbosa Gonsalez e Patrick Rovaron Franco.
-**Disciplina/docente:** [PREENCHER]
-**Minha contribuição:** [PREENCHER]
+**Disciplina/docente:** Grafos e Redes Sociais, Fernando S. de Aguiar Neto e Leonardo Rezende
 
 ## Perguntas de pesquisa
 
