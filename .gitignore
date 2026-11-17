@@ -1,0 +1,19 @@
+# Dados baixados em tempo de execução (não redistribuídos neste repositório)
+data/
+*.txt.gz
+*.tar.gz
+facebook_combined.txt*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Material de entrega que não é publicado
+*.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
